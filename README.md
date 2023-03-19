@@ -12,7 +12,7 @@ A modern minimal Vite + React + TypeScript + Tailwind template with pre-configur
 ![Testing Library](https://img.shields.io/badge/testing%20library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Commitlint](https://img.shields.io/badge/commitlint-000000?style=for-the-badge&logo=commitlint&logoColor=white)
 
-![Screenshot](https://i.imgur.com/4dpYsyG.png)
+![Screenshot](https://i.imgur.com/zhDZjn8.png)
 
 ## Features
 
