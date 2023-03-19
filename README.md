@@ -1,4 +1,4 @@
-# ultimate-vite-react-ts-starter ❤️‍🔥
+# ultimate-vite-react-ts-starter 🦄
 
 A modern minimal Vite + React + TypeScript + Tailwind template with pre-configured ESLint (with Airbnb JS/React rules), Prettier, Testing with Jest and Git hooks with Husky out of the box 📦
 
