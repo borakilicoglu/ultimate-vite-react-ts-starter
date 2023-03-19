@@ -5,6 +5,7 @@ A modern minimal Vite + React + TypeScript + Tailwind template with pre-configur
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38bdf9?style=for-the-badge&logo=tailwind&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -18,6 +19,7 @@ A modern minimal Vite + React + TypeScript + Tailwind template with pre-configur
 - ⚡️ [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
 - ⚛️ [React 18](https://reactjs.org/) - A JavaScript library for building user interfaces
 - 💎 [TypeScript](https://www.typescriptlang.org/) - Why not?!
+- 💎 [Tailwind](https://www.https://tailwindcss.com/.org/) - Rapidly build modern websites without ever leaving your HTML.
 - 🔨 [EsLint](https://eslint.org/) - Pluggable JavaScript linter
 - 🌀 [Prettier](https://prettier.io) - Opinionated Code Formatter
 - 🐺 [Husky](https://github.com/typicode/husky) - Native Git hooks
