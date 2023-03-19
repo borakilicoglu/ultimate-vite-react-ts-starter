@@ -77,6 +77,7 @@ If your not safe about it or have some question, send us a thread on [Github Dis
 
 - [x] Eslint
 - [x] Prettier
+- [x] Tailwind CSS
 - [x] Husky
 - [x] Testing Tools
 - [x] Absolute imports
