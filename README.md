@@ -19,7 +19,7 @@ A modern minimal Vite + React + TypeScript + Tailwind template with pre-configur
 - ⚡️ [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling
 - ⚛️ [React 18](https://reactjs.org/) - A JavaScript library for building user interfaces
 - 💎 [TypeScript](https://www.typescriptlang.org/) - Why not?!
-- 💎 [Tailwind](https://www.https://tailwindcss.com/.org/) - Rapidly build modern websites without ever leaving your HTML.
+- 💎 [Tailwind](https://www.tailwindcss.com) - Rapidly build modern websites without ever leaving your HTML.
 - 🔨 [EsLint](https://eslint.org/) - Pluggable JavaScript linter
 - 🌀 [Prettier](https://prettier.io) - Opinionated Code Formatter
 - 🐺 [Husky](https://github.com/typicode/husky) - Native Git hooks
